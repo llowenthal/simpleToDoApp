@@ -1,0 +1,6 @@
+/* public/styles.css */
+
+.completed {
+  text-decoration: line-through;
+  color: #999; /* Optional: Change color for completed items */
+}
